@@ -1,0 +1,4 @@
+interface:
+  display_name: "AAAI Research Writing"
+  short_description: "Revise AI research papers in a concise claim-evidence style."
+  default_prompt: "Revise this paper section using the distilled AAAI research-writing style."
