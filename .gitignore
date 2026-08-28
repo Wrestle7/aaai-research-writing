@@ -1,0 +1,23 @@
+# Secrets and local configuration
+.env
+.env.*
+*.pem
+*.key
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary and generated files
+__pycache__/
+*.pyc
+*.tmp
+*.bak
+*.log
+
+# Do not commit source papers or manuscript artifacts
+*.pdf
+*.docx
+*.tex
